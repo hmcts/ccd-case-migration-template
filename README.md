@@ -1,3 +1,5 @@
+> This is archived, Please use https://github.com/hmcts/ccd-case-migration-starter  instead.
+
 # ccd-case-migration-tool
 
 ## Development
